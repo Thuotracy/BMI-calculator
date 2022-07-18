@@ -5,11 +5,20 @@ html{
 
 #container{
     height: 300px;
-    width: 55px;
+    width: 550px;
     background-color: white;
     margin: 0 auto;
     border: 5px solid black;
     display: grid;
     grid-template-columns: 50px 1fr 1fr 1fr 50px;
     grid-template-rows: 100px 1fr 1fr;
+}
+
+#weight-input{
+    height: 25px;
+    width: 250px;
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 1;
+    grid-row-end: 1;
 }
