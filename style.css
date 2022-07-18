@@ -75,3 +75,17 @@ html{
     align-self: center; 
     justify-self: center;
 }
+
+#table{
+    height: 100px;
+    width: 550px;
+    background-color: white;
+    margin: 0 auto;
+    border: 5px solid black;
+}
+
+table, th, td{
+    margin: auto;
+    text-align: center;
+    border: 1px solid black;
+}
