@@ -3,6 +3,11 @@ html{
     height: 100%;
 }
 
+h1{
+    text-align: center;
+    font-weight: 30px;
+}
+
 #container{
     height: 300px;
     width: 550px;
