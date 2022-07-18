@@ -21,6 +21,7 @@ html{
     grid-column-end: 3;
     grid-row-start: 1;
     grid-row-end: 1;
+    align-self: center;
 }
 
 #wlabel{
@@ -37,6 +38,7 @@ html{
     grid-column-end: 3;
     grid-row-start: 2;
     grid-row-end: 2;
+    align-self: center;
 }
 
 #hlabel{
@@ -53,6 +55,7 @@ html{
     grid-column-end: 3;
     grid-row-start: 3;
     grid-row-end: 3; 
+    align-self: center;
 }
 
 #bmilabel{
