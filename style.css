@@ -82,6 +82,7 @@ html{
     background-color: white;
     margin: 0 auto;
     border: 5px solid black;
+    margin-top: 5px;
 }
 
 table, th, td{
