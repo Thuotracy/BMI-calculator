@@ -79,6 +79,9 @@ h1{
     grid-row-end: 2; 
     align-self: center; 
     justify-self: center;
+    background-color: aqua;
+    /* font-weight: 300px; */
+    border: 2px solid black;
 }
 
 #table{
